@@ -1,0 +1,19 @@
+{
+  "name": "plan-gestor-app",
+  "version": "1.0.0",
+  "description": "Controle Gerencial de Planejamento Físico - Cury",
+  "private": true,
+  "scripts": {
+    "start": "python -m http.server 4173",
+    "serve": "python -m http.server 4173"
+  },
+  "keywords": [
+    "planejamento-fisico",
+    "obras",
+    "dashboard",
+    "cury",
+    "saas"
+  ],
+  "author": "Eric Freitas",
+  "license": "UNLICENSED"
+}
